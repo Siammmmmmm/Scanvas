@@ -1,6 +1,7 @@
 # 🖼️ Scanvas
 
 **Scanvas** is a personal web app for uploading and exploring layered digital art.
+This is just a side project for me to learn full stack development.
 
 ---
 
@@ -43,8 +44,4 @@ This project is currently **not licensed** for reuse, redistribution, or commerc
 
 A formal license may be added in the future. For questions about usage, contact me directly.
 
----
-
-## 📬 Contact
-
-Created by **[Siam]**  
+Created by **[Siam Khan]**  
