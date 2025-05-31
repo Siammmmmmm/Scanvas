@@ -1,4 +1,4 @@
-# 🖼️ Scanvas
+# 🖼️ Scanvass
 
 **Scanvas** is a personal web app for uploading and exploring layered digital art.
 This is just a side project for me to learn full stack development.
