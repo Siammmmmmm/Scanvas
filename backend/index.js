@@ -15,6 +15,11 @@ const upload = multer({ dest: 'uploads/' }); // Files go in 'uploads/' folder
 app.use(cors());
 app.use(express.json());
 
+//root route
+app.get('/', (req, res) => {
+  res.send('Scanvas Renderer Backend');
+});
+
 // Health check route
 app.get('/health', (req, res) => {
   res.json({ status: 'ok' });
